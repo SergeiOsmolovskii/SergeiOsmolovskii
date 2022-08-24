@@ -36,6 +36,9 @@
   <img height="50" src="./icons/javascript-icon.svg">
   <img height="50" src="./icons/typescript-icon.svg">
   <img height="50" src="./icons/node-js-icon.svg">
+  <img height="50" src="./icons/nestjs-icon.svg">
+  <img height="50" src="./icons/postgresql-icon.svg">
+  <img height="50" src="./icons/graphql-icon.svg">
   <img height="50" src="./icons/angular-icon.svg">
   <img height="50" src="./icons/angular-material-icon.svg">
   <img height="50" src="./icons/git-icon.svg">
